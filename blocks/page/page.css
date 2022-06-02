@@ -1,0 +1,9 @@
+.page {
+    min-width: 320px;
+    background-color: #ECEBE8;
+    font-family: "Formular", sans-serif;
+    font-weight: 300;
+    color: #242424;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
