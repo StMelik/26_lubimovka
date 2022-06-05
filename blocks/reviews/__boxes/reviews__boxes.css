@@ -1,0 +1,12 @@
+.reviews__boxes {
+    display: flex;
+    justify-content: center;
+    margin: 60px 0 0 0;
+    padding: 0;
+}
+
+@media (max-width: 625px) {
+    .reviews__boxes {
+        margin-top: 24px;
+    }
+}

@@ -1,0 +1,18 @@
+.reviews__radio {
+    margin: 0 16px 0 0;
+    padding: 0;
+    width: 6px;
+    height: 6px;
+    border: 1px solid #242424;
+    border-radius: 50%;
+}
+
+.reviews__radio-active {
+    background-color: black;
+}
+.reviews__radio-off {
+    background-color: white;
+}
+.reviews__radio-disabled {
+    opacity: 0.5;
+}
