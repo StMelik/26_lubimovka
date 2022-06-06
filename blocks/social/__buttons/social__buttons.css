@@ -1,0 +1,20 @@
+.social__buttons {
+    display: inline-block;
+    font-size: 0;
+    position: relative;
+    top: -35px;
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 1320px) {
+    .social__buttons {
+        top: calc(-15px + (-35 - -15) * ((100vw - 415px) / (1320 - 415)));
+    }
+}
+
+@media screen and (max-width: 439px) {
+    .social__buttons {
+        position: static;
+        margin: 10px 0 10px 5px;
+    }
+}

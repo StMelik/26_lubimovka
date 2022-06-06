@@ -1,0 +1,16 @@
+.social__image {
+    background-image: url("../../../images/social-image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: calc(252px + (404 - 252) * ((100vw - 415px) / (1320 - 415)));
+    max-height: 404px;
+    margin-bottom: 57px;
+}
+
+@media screen and (max-width: 1320px) {
+    .social__image {
+        margin: 0 -15px;
+        margin-bottom: calc(25px + (57 - 25) * ((100vw - 415px) / (1320 - 415)));
+    }
+}
