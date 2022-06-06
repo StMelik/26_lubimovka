@@ -9,3 +9,16 @@
 /* -----PAGE----- */
 
 @import url("../blocks/page/page.css");
+
+/* -----CONTAINER----- */
+
+@import url("../blocks/container/container.css");
+
+/* -----SOCIAL----- */
+
+@import url("../blocks/social/social.css");
+@import url("../blocks/social/__image/social__image.css");
+@import url("../blocks/social/__content/social__content.css");
+@import url("../blocks/social/__title/socila__title.css");
+@import url("../blocks/social/__buttons/social__buttons.css");
+@import url("../blocks/social/__button/social__button.css");

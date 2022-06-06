@@ -1,0 +1,35 @@
+.social__button {
+    position: relative;
+    padding: 4px 12px 7px 26px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 14px;
+    border: none;
+    border-left: 1px solid #242424;
+    border-bottom: 1px solid #242424;
+    background-color: transparent;
+    cursor: pointer;
+    transition: opacity 0.3s;
+}
+
+.social__button:not(:last-of-type) {
+    margin-right: 9px;
+}
+
+.social__button::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0px;
+    width: 21px;
+    height: 13px;
+    background-image: url("../../../images/icon/arrow-right.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.social__button:hover {
+    opacity: 0.5;
+}
