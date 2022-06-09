@@ -1,0 +1,16 @@
+.header__list-menu {
+}
+
+.header__list-menu li {
+  margin-left: 23px;
+  padding: 0 10px 0;
+  box-sizing: content-box;
+}
+
+.header__list-menu li:first-child {
+  display: none;
+}
+
+.header__list-menu li:last-child {
+  display: none;
+}

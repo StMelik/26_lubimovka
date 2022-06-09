@@ -1,0 +1,13 @@
+.header__body {
+  height: 62px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 767px){
+  .header__body {
+    height: 60px;
+  }
+}

@@ -1,0 +1,32 @@
+.header__logo {
+  flex: 0 0 50px;
+  position: relative;
+  z-index: 3;
+  margin-left: 30px;
+}
+
+.header__logo img {
+  max-width: 100%;
+}
+
+/*@media screen  and (max-width: 1278px) {*/
+/*  .header__logo {*/
+/*    flex: 0 0 130px;*/
+/*    margin-left: 105px;*/
+/*  }*/
+/*}*/
+
+/*@media screen  and (max-width: 1023px) {*/
+/*  .header__logo {*/
+/*    flex: 0 0 105px;*/
+/*    margin-left: 45px;*/
+/*  }*/
+/*}*/
+
+/*@media screen  and (max-width: 767px) {*/
+/*  .header__logo {*/
+/*    flex: 0 0 95px;*/
+/*    display: block;*/
+/*    margin: 0 auto;*/
+/*  }*/
+/*}*/

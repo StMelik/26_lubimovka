@@ -1,0 +1,8 @@
+.header__sub-list-item {
+}
+
+@media screen  and (min-width: 768px) {
+  .header__sub-list-item:hover {
+    background-color: #009FAC;
+  }
+}

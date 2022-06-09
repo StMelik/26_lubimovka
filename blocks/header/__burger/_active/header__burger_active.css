@@ -1,0 +1,33 @@
+.header__burger_active {
+  right: 30px;
+  width: 32px;
+  height: 32px;
+}
+
+.header__burger_active:before {
+  transform: rotate(45deg);
+  top: 15px;
+}
+
+.header__burger_active:after {
+  transform: rotate(-45deg);
+  bottom: 15px;
+}
+
+.header__burger_active span {
+  transform: scale(0);
+}
+
+@media screen and (max-width: 425px){
+  .header__burger_active {
+    right: 10px;
+    width: 24px;
+    height: 24px;
+  }
+  .header__burger_active:before {
+    top: 11px;
+  }
+  .header__burger_active:after {
+    bottom: 11px;
+  }
+}
