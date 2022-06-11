@@ -1,0 +1,11 @@
+.reviews__slider {
+    max-width: 740px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+@media (max-width: 625px) {
+    .reviews__slider {
+        max-width: 420px;
+    }
+}

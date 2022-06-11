@@ -9,3 +9,15 @@
 /* -----PAGE----- */
 
 @import url("../blocks/page/page.css");
+@import url("../blocks/reviews/reviews.css");
+@import url("../blocks/reviews/__slider/reviews__slider.css");
+@import url("../blocks/reviews/__boxes/reviews__boxes.css");
+@import url("../blocks/reviews/__title/reviews__title.css");
+@import url("../blocks/reviews/__radios/reviews__radios.css");
+@import url("../blocks/reviews/__radio/reviews__radio.css");
+@import url("../blocks/reviews/__button/reviews__button.css");
+@import url("../blocks/reviews/__button/reviews__button-back.css");
+@import url("../blocks/reviews/__button/reviews__button-ahead.css");
+@import url("../blocks/reviews/__text/reviews__text.css");
+@import url("../blocks/reviews/__author/reviews__author.css");
+@import url("../blocks/reviews/__box/reviews__box.css");
