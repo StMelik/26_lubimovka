@@ -1,0 +1,19 @@
+.reviews__radios {
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+}
+
+@media (max-width: 625px) {
+    .reviews__radios {
+        position: absolute;
+        bottom: 540px;
+    }
+}
+@media (max-width: 435px) {
+    .reviews__radios {
+        position: absolute;
+        bottom: 540px;
+        left: 30px;
+    }
+}
