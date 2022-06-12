@@ -1,0 +1,17 @@
+.footer__support-logo_sbtg {
+    width: 68px;
+    height: 37px;
+    margin: 47px 0 0 32px;
+    padding: 0;
+    background: url("../../../img/sbtg.svg") no-repeat center;
+}
+
+@media (max-width: 1111px)  {
+    .footer__support-logo_sbtg {
+        position: absolute;
+        top: 120px;
+        margin: 0;
+        width: 96px;
+        height: 44px;
+    }
+}

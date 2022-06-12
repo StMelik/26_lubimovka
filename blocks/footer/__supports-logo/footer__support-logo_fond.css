@@ -1,0 +1,14 @@
+.footer__support-logo_fond {
+    width: 91px;
+    height: 34px;
+    margin: 48px 0 0 1px;
+    padding: 0;
+    background: url("../../../img/fond.svg") no-repeat center;
+}
+@media (max-width: 1111px)  {
+    .footer__support-logo_fond {
+        margin: 0;
+        min-width: 110px;
+        height: 40px;
+    }
+}

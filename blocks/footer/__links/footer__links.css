@@ -1,0 +1,14 @@
+.footer__links {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 1111px)  {
+    .footer__links {
+        justify-content: start;
+        flex-wrap: wrap;
+        margin: 165px 0 0;
+    }
+}
