@@ -9,3 +9,21 @@
 /* -----PAGE----- */
 
 @import url("../blocks/page/page.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__content/footer__content.css");
+@import url("../blocks/footer/__logo/footer__logo.css");
+@import url("../blocks/footer/__supports-logo/footer__supports-logo.css");
+@import url("../blocks/footer/__navigation/footer__navigation.css");
+@import url("../blocks/footer/__subscription/footer__subscription.css");
+@import url("../blocks/footer/__supports-text/footer__supports-text.css");
+@import url("../blocks/footer/__supports-logo/footer__supports-logo.css");
+@import url("../blocks/footer/__supports-logo/footer__support-logo_speak.css");
+@import url("../blocks/footer/__supports-logo/footer__support-logo_fond.css");
+@import url("../blocks/footer/__supports-logo/footer__support-logo_mosbrew.css");
+@import url("../blocks/footer/__supports-logo/footer__support-logo_sbtg.css");
+@import url("../blocks/footer/__adds/footer__adds.css");
+@import url("../blocks/footer/__links/footer__links.css");
+@import url("../blocks/footer/__links-column/footer__links-column.css");
+@import url("../blocks/footer/__link-column/footer__link-column.css");
+@import url("../blocks/footer/__right-bar/footer__right-bar.css");
+@import url("../blocks/footer/__left-bar/footer__left-bar.css");

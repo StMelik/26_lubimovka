@@ -1,0 +1,12 @@
+.footer__navigation {
+    display: flex;
+    justify-content: space-between;
+    margin: 62px 0 0 0;
+    padding: 0;
+}
+@media (max-width: 1111px)  {
+    .footer__navigation {
+        margin: 0 0 0 55px;
+        justify-content: start;
+    }
+}

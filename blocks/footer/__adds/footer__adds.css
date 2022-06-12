@@ -1,0 +1,41 @@
+.footer__adds {
+    margin: 0;
+    padding: 0;
+    max-width: 231px;
+}
+.footer__adds p{
+    margin: 16px 0 0 0;
+    padding: 0;
+    font-family: 'Formular, sans-serif';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    color: inherit;
+}
+.footer__adds h4{
+    margin: 0;
+    padding: 0;
+    font-family: 'Neue Machina, sans-serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: inherit;
+}
+
+@media (max-width: 1111px)  {
+    .footer__adds {
+        position: absolute;
+        max-width: 265px;
+    }
+    .footer__adds p {
+        font-size: 16px;
+        line-height: 22px;
+        opacity: 0.6;
+    }
+}
+
+
+

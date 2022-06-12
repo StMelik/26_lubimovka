@@ -1,0 +1,26 @@
+.footer__supports-logo {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 1111px)  {
+    .footer__supports-logo {
+        margin: 0;
+        position: relative;
+        top: 550px;
+        left: 54px;
+        max-width: 70%;
+
+    }
+}
+@media (max-width: 747px)  {
+    .footer__supports-logo {
+        top: 730px;
+    }
+}
+
+@media (max-width: 479px)  {
+    .footer__supports-logo {
+        top: 830px;
+    }
+}

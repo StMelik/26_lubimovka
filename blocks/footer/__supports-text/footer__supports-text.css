@@ -1,0 +1,29 @@
+.footer__supports-text{
+    font-family: inherit;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: 14px;
+    line-height: 17px;
+    color: inherit;
+    padding: 0;
+    margin: 48px 0 0 0;
+    max-width: 145px;
+}
+.footer__supports-text_sbtg {
+    display: none;
+}
+
+@media (max-width: 1111px)  {
+    .footer__supports-text {
+        margin: 0;
+        line-height: 20px;
+        position: absolute;
+        top: 60px;
+        max-width: 160px;
+    }
+    .footer__supports-text_sbtg {
+        display: block;
+        top: 180px;
+    }
+}
+

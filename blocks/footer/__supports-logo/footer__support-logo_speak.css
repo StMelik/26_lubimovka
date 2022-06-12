@@ -1,0 +1,17 @@
+.footer__support-logo_speak {
+    width: 97px;
+    height: 36px;
+    margin: 46px 0 0 26px;
+    padding: 0;
+    background: url("../../../img/speak.svg") no-repeat center;
+}
+@media (max-width: 1111px)  {
+    .footer__support-logo_speak {
+        position: absolute;
+        top: 129px;
+        left: 180px;
+        margin: 0;
+        width: 118px;
+        height: 43px;
+    }
+}
