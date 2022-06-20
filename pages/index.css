@@ -9,3 +9,29 @@
 /* -----PAGE----- */
 
 @import url("../blocks/page/page.css");
+
+@import url(../blocks/performance/performance.css);
+@import url(../blocks/performance/__promo/performance__promo.css);
+@import url(../blocks/performance/__title/performance__title.css);
+@import url(../blocks/performance/__description/performance__description.css);
+@import url(../blocks/performance/__date/performance__date.css);
+@import url(../blocks/performance/__buy-button/performance__buy-button.css);
+@import url(../blocks/performance/__button-text/performance__button-text.css);
+@import url(../blocks/performance/__details/performance__details.css);
+@import url(../blocks/performance/__line/performance__line.css);
+@import url(../blocks/performance/__team-list/performance__team-list.css);
+@import url(../blocks/performance/__job-title/performance__job-title.css);
+@import url(../blocks/performance/__name/performance__name.css);
+@import url(../blocks/performance/__button-img/performance__button-img.css);
+@import url(../blocks/performance/__photo/performance__photo.css);
+@import url(../blocks/performance/__information/performance__information.css);
+@import url(../blocks/performance/__video/performance__video.css);
+@import url(../blocks/performance/__history/performance__history.css);
+@import url(../blocks/performance/__paragraph/performance__paragraph.css);
+@import url(../blocks/performance/__container/performance__container.css);
+@import url(../blocks/performance/__container-title/performance__container-title.css);
+@import url(../blocks/performance/__link/performance__link.css);
+@import url(../blocks/performance/__link-text/performance__link-text.css);
+@import url(../blocks/performance/__link-image/performance__link-image.css);
+@import url(../blocks/performance/__person/performance__person.css);
+@import url(../blocks/performance/__city/performance__city.css);

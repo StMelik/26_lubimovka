@@ -1,0 +1,33 @@
+.performance__buy-button {
+    color: #242424;
+    margin: 0 0 399px 0;
+    padding: 16px;
+    border: 1px solid #000000;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    position: relative;
+    transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+}
+.performance__buy-button:hover {
+    background-color: transparent;
+}
+
+.performance__buy-button:hover:before {
+    left: 0%;
+    right: auto;
+    width: 100%;
+}
+.performance__buy-button:before {
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 100%;
+    width: 0px;
+    z-index: -1;
+    content: '';
+    background: #b7c09d;
+    transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+    0s;
+}

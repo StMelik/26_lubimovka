@@ -1,0 +1,8 @@
+.performance {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    box-sizing: border-box;
+    color: #242424;
+    padding: 30px 0 144px 0;
+}

@@ -1,0 +1,12 @@
+.performance__paragraph {
+    text-indent: 5%;
+    margin: 0 0 28px 0;
+}
+
+.performance__paragraph:first-child {
+    text-indent: 0%;
+}
+
+.performance__paragraph:last-child {
+    margin-bottom: 80px;
+}
