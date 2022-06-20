@@ -1,0 +1,10 @@
+.performance__person {
+    margin: 0 0 4px 0;
+    font-family: 'Neue Machina', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    max-width: 100px;
+}

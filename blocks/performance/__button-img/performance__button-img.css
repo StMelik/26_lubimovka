@@ -1,0 +1,8 @@
+.performance__button-img {
+    display: block;
+    background-image: url("../../../img/arrow-right.svg");
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

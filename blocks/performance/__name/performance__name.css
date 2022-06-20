@@ -1,0 +1,8 @@
+.performance__name {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.01em;
+    font-feature-settings: 'ss01' on;
+    margin: 0 0 24px 90px;
+    max-width: 420px;
+}
